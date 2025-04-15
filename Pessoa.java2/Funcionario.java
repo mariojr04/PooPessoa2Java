@@ -3,5 +3,6 @@ public class Funcionario extends Pessoa {
     public int matricula;
     
     public void ReceberSalario(){
+        System.out.println("RECEBIDO");
     }
 }
