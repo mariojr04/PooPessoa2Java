@@ -4,7 +4,9 @@ public class Pessoa{
 
 
     public void Andar(){
+        System.out.println("ANDANDO");
     }
     public void Estudar(){
+        System.out.println("ESTUDANDO");
     }
 }
